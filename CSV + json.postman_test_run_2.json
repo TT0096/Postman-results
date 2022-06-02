@@ -1,0 +1,43 @@
+{
+	"id": "b081fd17-59e0-49f4-9357-740b8a282c1b",
+	"name": "CSV + json",
+	"timestamp": "2022-06-02T15:27:16.590Z",
+	"collection_id": "21068122-ffa8af96-b024-4748-ba8b-d5afd022f8e2",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "32a71914-db29-41c7-acc3-035a197143f5",
+			"name": "Register",
+			"time": 145,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				501,
+				268,
+				145
+			],
+			"allTests": [
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 3,
+	"totalTime": 914,
+	"collection": {
+		"requests": [
+			{
+				"id": "32a71914-db29-41c7-acc3-035a197143f5",
+				"method": "POST"
+			}
+		]
+	}
+}
